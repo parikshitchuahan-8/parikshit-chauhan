@@ -12,7 +12,7 @@ Backend-focused software developer building full-stack applications with a stron
 
 ## Tech Stack
 
-- Languages: Java, JavaScript, C++, SQL
+- Languages: Java, JavaScript, SQL
 - Backend: Spring Boot, Node.js, Express, Spring Security, JWT
 - Frontend: React, Vite, Tailwind CSS
 - Databases: PostgreSQL, MongoDB
